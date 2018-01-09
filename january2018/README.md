@@ -2,10 +2,10 @@
 *January, 2018*
 
 ## Agenda Items
-1. Status update
-1. Setting a regular meeting schedule
-1. Milestones and goal setting
-1. CCC-Axis paper
+1. Status update (All)
+1. Setting a regular meeting schedule (All)
+1. Milestones and goal setting (Shawn, Pedro, Alan)
+1. CCC-Axis paper (Jorge)
 
 
 ## Updates
