@@ -23,7 +23,7 @@
 
 
 ### qEEGt in CBRAIN
-1. (@laletscaria please add link to current implementation)
+Link to the repo: https://github.com/glatard/qeeg (Private)
 
 
 ## Code Products
