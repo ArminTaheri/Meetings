@@ -1,5 +1,5 @@
 # CCC-Axis Meeting
-** January, 2018 **
+*January, 2018*
 
 ## Agenda Items
 1. Status update
