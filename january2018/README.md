@@ -24,7 +24,9 @@
 
 ### qEEGt in CBRAIN
 Link to the repo: https://github.com/glatard/qeeg (Private)
-
+* We were supposed to hear back if there were any problems, but no updates yet.
+* Available on Acelab docker 1  and Guillimin
+* Version is kept as undefined since there was no version control for the files that were shared
 
 ## Code Products
 1. Platform Independent Visualization Tool (PIVT)
