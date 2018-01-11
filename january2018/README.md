@@ -28,7 +28,7 @@
 1. For multi-line plots in the narrow band study, is there predefined set of line colors?
 1. For the broad band study, what do the matrix rows/column correspond to?
 1. For Raw narrow band, what files are used to create the colored MRI slices? What is used as intensity?
-1. For each of the 12 types of studies what visualization should be used on them?
+1. What is the mapping from the following study types to the type of visualization to use?
     1. Raw Narrow Band CROSS 
     1. Z Transform Narrow Band ZCROSS 
     1. Raw Broad Band  BBSP 4 Z Transform Broad Band ZBBSP 
@@ -40,8 +40,6 @@
     1. Raw Temporal Correlation COR 
     1. Raw Coherence COH 
     1. Raw Phase PHA
-1. Should each study type (CROSS, ETC, PHA) open a tabbed visualization where each tab corresponds to each type of compatible visualization?
-    1. If not how would you like to decide which visualization to use for a particular study type?
 1. What are the exact band interval values?
 
 
