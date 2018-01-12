@@ -41,6 +41,7 @@
     1. Raw Coherence COH 
     1. Raw Phase PHA
 1. What are the exact band interval values?
+1. What do the mean and std. dev checkboxes refer too?
 
 
 ### qEEGt in CBRAIN
