@@ -16,17 +16,16 @@
 
 
 ### Data Visualization
-1. Recreated basic plots in qEEGt (@armintaheri add link here)
+1. Recreated basic plots in qEEGt [See example here](https://armintaheri.github.io/modfile-viewer)
 
 #### Open Questions
-1. How exactly is the correlation map interpolated?
+1. How exactly is the head heatmap computed?
     1. What values are being interpolated?
-    1. What is the mapping from electrode label -> scalp positions
-    1. How should color maps be inputted?
+    1. How are they interpolated?
+    1. What is the mapping from electrode label -> scalp positions (coordinates?)
+    1. How should color maps be inputted? File format?
     1. What are the default color maps?
 1. What is the upper and lower limit for the line plot Y axis? global Min/Max?
-1. For multi-line plots in the narrow band study, is there predefined set of line colors?
-1. For the broad band study, what do the matrix rows/column correspond to?
 1. For Raw narrow band, what files are used to create the colored MRI slices? What is used as intensity?
 1. What is the mapping from the following study types to the type of visualization to use?
     1. Raw Narrow Band CROSS 
@@ -41,6 +40,9 @@
     1. Raw Coherence COH 
     1. Raw Phase PHA
 1. What are the exact band interval values?
+1. What do the mean and std. dev checkboxes refer too?
+1. What numbers are we supposed to be plotting exactly? (Example line plots uses `log_E(abs_power)`, but this is not correct)
+
 
 
 ### qEEGt in CBRAIN
