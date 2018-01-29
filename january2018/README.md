@@ -45,7 +45,7 @@
 1. What do the mean and std. dev checkboxes refer too?
 1. What numbers are we supposed to be plotting exactly? (Example line plots uses `log_E(abs_power)`, but this is not correct)
 
-Albert is going to work with Armin (Greg will set up connection)
+Aubert is going to work with Armin (Greg will set up connection)
 
 ### qEEGt in CBRAIN
 Link to the repo: https://github.com/glatard/qeeg (Private)
